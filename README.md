@@ -1,0 +1,5 @@
+-> DASHBOARD MODERNO E FLUIDO 
+-> USADO NENHUM FRAMEWORK
+
+
+-> PARA RODAR APENAS CLONE O PROJECT PARA SEU IDE E RODE LOCALMENTE - sem necessidade de nenhum gerenciador de dependências
